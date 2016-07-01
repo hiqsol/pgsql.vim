@@ -20,7 +20,7 @@ syn case ignore
 syn keyword pgsqlKeyword    abort alter aggregate analyze and as alias add
 syn keyword pgsqlKeyword    begin before
 syn keyword pgsqlKeyword    called conversion cascade current_date current_time current_timestamp class close
-syn keyword pgsqlKeyword    cluster checkpoint check comment
+syn keyword pgsqlKeyword    cluster checkpoint check collate comment
 syn keyword pgsqlKeyword    cast cascade character check column columns constraint create copy
 syn keyword pgsqlKeyword    database domain databases default distinct drop declare deallocate
 syn keyword pgsqlKeyword    deferrable deferred defaults do diagnostics
