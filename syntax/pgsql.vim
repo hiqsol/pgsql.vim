@@ -83,7 +83,7 @@ syn match pgsqlComment      "--.*"
 syn sync ccomment pgsqlComment
 
 " Types
-syn keyword pgsqlType       anyarray anyelement abstime anyenum
+syn keyword pgsqlType       array anyarray anyelement abstime anyenum
 syn keyword pgsqlType       anynonarray any aclitem bytea bit
 syn keyword pgsqlType       boolean bigint box cidr cstring char
 syn keyword pgsqlType       character cid circle double date
